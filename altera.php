@@ -8,7 +8,7 @@
     <title>Alterar dados</title>
 </head>
 <body>
-    <h1>Aqui poderá alterar os dados que quiser</h1>
+    <h1>Alterar registros</h1>
     <div>
        <?php
             if (isset($_GET["id"])&&isset($_GET["nome"])&&isset($_GET["numero"])) {

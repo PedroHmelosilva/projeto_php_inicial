@@ -8,7 +8,7 @@
     <title>Excluir o registro</title>
 </head>
 <body>
-    <h1>Aqui você pode excluir um registro</h1>
+    <h1>Excluir registros</h1>
     <div>
         <?php
             if (isset($_GET["id"])&&isset($_GET["nome"])&&isset($_GET["numero"])) {

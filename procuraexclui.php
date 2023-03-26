@@ -8,7 +8,7 @@
     <title>Procura para excluir</title>
 </head>
 <body>
-    <h1>Aqui você pode procurar um registro para excluí-lo</h1>
+    <h1>Excluir registros</h1>
     <div>
         <form action="procuraexclui.php" method="get">
             <p>Procurar: <input type="number" name="id"></p><br>

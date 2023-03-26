@@ -8,6 +8,7 @@
     <title>Procurar os dados</title>
 </head>
 <body>
+    <h1>Alterar registros</h1>
     <div>
         <form action="procura.php" method="get">
             <p>Procurar: <input type="number" name="id"></p><br>
